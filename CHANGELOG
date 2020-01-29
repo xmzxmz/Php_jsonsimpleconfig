@@ -1,0 +1,3 @@
+0.1.0 (2018-06-09)
+    * Initial JSON Simple Config library
+        - Parsing JSC file

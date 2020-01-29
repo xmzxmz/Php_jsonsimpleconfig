@@ -1,0 +1,21 @@
+{
+  "name": "xmz/jsonsimpleconfig",
+  "description": "JSON Simple Config - The simple idea to prepare configuration for your application.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marcin Zelek",
+      "email": "marcin.zelek@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "files": [
+      "jsonsimpleconfig/jsonsimpleconfig.inc"
+    ]
+  }
+}
